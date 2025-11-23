@@ -55,9 +55,6 @@ This repository compares two Lidar-camera fusion strategies - early fusion a
 
 Purple 3D boxes in early fusion can be less accurate than those in late fusion because they rely on estimated LiDAR depth and calibration, which is challenging to get precisely right.
 
-
-For detailed analysis, check our [Medium article](https://medium.com/@az.tayyebi/early-vs-late-camera-lidar-fusion-in-3d-object-detection-a-performance-study-5fb1688426f9)
-
 ## Requirements
 
 Python 3.8+
@@ -74,7 +71,7 @@ CUDA support
 
 ## Installation
 
-git clone [Lidar-CameraFusion-3DobjectDetection](https://github.com/Azitt/Lidar-CameraFusion-3DobjectDetection)
+git clone [Lidar-CameraFusion-3DobjectDetection](https://github.com/jeremynguyenn/Lidar-Fusion-3D-Detection.git)
 
 cd Lidar-CameraFusion-3DobjectDetection
 
